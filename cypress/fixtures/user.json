@@ -1,0 +1,15 @@
+{
+  "name": "Felix Fidelix",
+  "email": "felix_fidelix1@ttes.com",
+  "body": "Fixtures are a great way to mock data for responses to routes",
+  "senha": "1234",
+  "primeiroNome": "Felix",
+  "sobrenome": "Fidelix",
+  "empresa": "Happiness",
+  "endereco1": "Rua dos bobos",
+  "endereco2": "Dunkey Street",
+  "estado": "Ontario",
+  "cidade": "Ottawa",
+  "cep": "J0X 2G0",
+  "telefone": "+1 613 8762348"
+}
